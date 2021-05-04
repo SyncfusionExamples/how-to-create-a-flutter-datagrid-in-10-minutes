@@ -1,5 +1,6 @@
 # How to Create a Flutter DataGrid in 10 Minutes
 A quick-start example to help you add the Syncfusion Flutter DataGrid package to a Flutter app. You will learn how to add a DataGrid to a Flutter project, how to set a data source and columns to the grid. You will also learn how to enable selection and sorting in the DataGrid.
+
 Watch the video: Coming soon...
 
 Documentation: https://help.syncfusion.com/flutter/datagrid/overview
